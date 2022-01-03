@@ -1,0 +1,23 @@
+{
+  "name": "plinke",
+  "version": "1.0.0",
+  "description": "plinko with matterjs and p5",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "plinko",
+    "physics",
+    "matter",
+    "p5"
+  ],
+  "author": "RDR2",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "matter-js": "^0.17.1",
+    "p5": "^1.4.0"
+  }
+}
